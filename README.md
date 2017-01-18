@@ -14,7 +14,7 @@ The torrent magnet for the original csv file (900mb) is available online pretty 
 
 The following are the findings from the study:
 
-The breakup of the files is (from a total of 78lac entries):
+The breakup of the files is (from a total of 78lac entries):<br/>
 {
 <br/>'movies': 2581862, 
 <br/>'books': 338190, 
