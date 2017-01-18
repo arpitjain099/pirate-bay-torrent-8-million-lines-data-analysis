@@ -1,7 +1,7 @@
-The pirate bay website categorizes content in the following genres:
+The pirate bay website categorizes content in the following genres:<br/>
 {
 The torrent magnet for the original csv file (900mb) is available online pretty easily (just do an online lookup). http://arstechnica.com/information-technology/2014/12/open-bay-lets-you-run-your-own-copy-of-the-pirate-bay-emphasis-on-copy/
-}<br/>
+}<br/><br/>
 1. series & tv<br/>
 2. books<br/>
 3. movies<br/>
@@ -34,13 +34,13 @@ Clearly<br/> Adult content (read porn) = 820543/7800000 = 0.105197821 (approx 10
  	Books = 338190/7800000 = 0.043357692 (mere 4.3%)<br/>
 	Software = 1099474/7800000 = 0.140958205 (approx 14%)<br/>
 
-"XXX" appears 188603 times in descriptions (2.4% of entire dataset, 22.3% of adult content)
-"sex" appears 35981 times in descriptions (4.4% of adult content)
-"porn" appears 12234 times in descriptions (1.5% of adult content)
-"Julia ann" (pornstar) appears 687 times in descriptions (0.08% of adult content)
-"Lisa ann" (pornstar) appears 1036 times in descriptions (0.13% of adult content)
+<br/>"XXX" appears 188603 times in descriptions (2.4% of entire dataset, 22.3% of adult content)
+<br/>"sex" appears 35981 times in descriptions (4.4% of adult content)
+<br/>"porn" appears 12234 times in descriptions (1.5% of adult content)
+<br/>"Julia ann" (pornstar) appears 687 times in descriptions (0.08% of adult content)
+<br/>"Lisa ann" (pornstar) appears 1036 times in descriptions (0.13% of adult content)
 
-Clearly "XXX" happens to be a better keyword for looking up X-rated content. :P
+<b>Clearly "XXX" happens to be a better keyword for looking up X-rated content. :P</b>
 <br/>
 
 
